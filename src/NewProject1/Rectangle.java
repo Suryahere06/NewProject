@@ -9,7 +9,7 @@ public class Rectangle {
 	public  Rectangle() {
 			length=0;
 			breadth=0;
-		
+		///
 	}
 	
 	public Rectangle(int length,int breadth) {

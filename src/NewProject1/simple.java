@@ -9,7 +9,7 @@ final static int num3=50;
 		int num2=2;
  		int mult=num1*num2*num3;
 		System.out.println("mul"+mult);
-		
+		///
 	}
 	
 	public void addition() {

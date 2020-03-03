@@ -8,7 +8,7 @@ public class Student {
 	public Student(String name) {
 		this.name=name;
 		System.out.println("Name is: "+ name);
-
+//
 	}
 	public Student() {
 		

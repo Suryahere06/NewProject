@@ -9,7 +9,7 @@ public class AddAmount {
 	{
 		this.amount=this.amount+amount;
 		
-		
+		//test
 	}
 	public AddAmount() {
 	
