@@ -21,7 +21,7 @@ public class Area {
         else
         System.out.println("area is a rectangle");
         
-        
+         
 	}
 
 }

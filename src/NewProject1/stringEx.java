@@ -14,7 +14,7 @@ public class stringEx {
 		
 	}
 	Public stringEx ()
-	{
+	{  
 		
 	}
 

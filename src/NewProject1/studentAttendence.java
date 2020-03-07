@@ -23,7 +23,7 @@ Scanner input = new Scanner(System.in);
 				System.out.println("not ok to appear for exam");
 
 			System.out.println(attendence_per*100);
-
+ 
 	}
-
-}
+  
+} 

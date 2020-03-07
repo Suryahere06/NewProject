@@ -16,7 +16,7 @@ public class greater {
 			int i=input.nextInt();
 			int j=input.nextInt();
 			
-			if(i>j)
+			if(i>j) 
 				System.out.println("i is greater");
 			else
 				System.out.println("j is greater");

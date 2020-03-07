@@ -13,7 +13,7 @@ public class stud {
 	{
 		this.id = i;
 		this.firstname = firstname;
-		
+		  
 		
 	}
 	public String addrecordtodatabase()

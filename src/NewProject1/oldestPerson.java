@@ -18,7 +18,7 @@ Scanner input = new Scanner(System.in);
 			int c=input.nextInt();
 			
 			if(a>b && a>c) {
-				System.out.println("1st person is the oldest");
+	 			System.out.println("1st person is the oldest");
 			}else if(b>a && b>c) {
 				System.out.println("2nd person is the oldest");
 			}else if(c>a && c>b) {
