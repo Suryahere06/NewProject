@@ -18,6 +18,6 @@ public class absoluteValue {
 	}else {
 		System.out.println("Print the value"+value);
 	}
- 
+    
 }
 }
