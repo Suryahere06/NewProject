@@ -15,7 +15,7 @@ public class Rectangle {
 	public Rectangle(int length,int breadth) {
 		this.length=length;
 		this.breadth=breadth;
-		
+	 	
 	}
 	public Rectangle(int length)
 	{

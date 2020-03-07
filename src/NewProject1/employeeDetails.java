@@ -25,6 +25,6 @@ public class employeeDetails {
 		}else if(mark>80) {
 			System.out.println("Grade A");
 	} 
- 
+  
 	}
 }

@@ -24,6 +24,6 @@ Scanner input = new Scanner(System.in);
 
 			System.out.println(attendence_per*100);
  
-	}
+	} 
   
 } 

@@ -20,7 +20,7 @@ public class greater {
 				System.out.println("i is greater");
 			else
 				System.out.println("j is greater");
-		}
+		} 
 	}
 
 

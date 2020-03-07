@@ -19,7 +19,7 @@ public class Employee {
 		}
 		else {
 			System.out.println("No bonus:"+salary );
-		}
+	 	}
 
 	}
 

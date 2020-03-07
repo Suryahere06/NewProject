@@ -26,7 +26,7 @@ public class Shop {
 		System.out.println("Total cost with no discount:"+finalcost);
 		}
 		
-		 
+ 		 
 
 	}
 

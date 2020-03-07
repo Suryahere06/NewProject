@@ -18,7 +18,7 @@ public class stud {
 	}
 	public String addrecordtodatabase()
 	{
-		
+		 
 		return "success"
 	}
 	 

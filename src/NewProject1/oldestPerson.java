@@ -12,7 +12,7 @@ Scanner input = new Scanner(System.in);
 		System.out.println("Enter the age for 1st person");
 		System.out.println("Enter the age for 2nd person");
 		System.out.println("Enter the age for 3rd person");
-			
+			 
 			int a=input.nextInt();
 			int b=input.nextInt();
 			int c=input.nextInt();
